@@ -30,7 +30,7 @@ Sistemas interesantes que tiene el GM:
 
 ## Instrucciones para la instalación
 
-- Lo primero es descargar la última versión del repositorio. Puedes hacerlo desde aquí: https://github.com/javier-es/DownTown-RP/releases/latest y haciendo click
+- Lo primero es descargar la última versión del repositorio. Puedes hacerlo desde aquí: https://github.com/inmatable/DownTown-RP/releases y haciendo click
 en Source code (ya sea zip o tar.gz según te convenga)
 
 - Descomprimir el archivo descargado, ir al archivo mysql.lua de la resource sql y escribir las credenciales de MySQL.
